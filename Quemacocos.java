@@ -4,4 +4,6 @@ public class Quemacocos{
  }
  public void cerrar{
  }
+ public void boolean SuprimirRuido{
+ }
 }
